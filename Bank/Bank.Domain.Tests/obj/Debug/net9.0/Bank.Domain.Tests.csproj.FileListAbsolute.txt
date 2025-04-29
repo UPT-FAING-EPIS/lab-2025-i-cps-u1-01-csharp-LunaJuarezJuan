@@ -1,0 +1,7 @@
+C:\Users\luna3\OneDrive\Escritorio\calidadypruebas2025\lab-2025-i-cps-u1-01-csharp-LunaJuarezJuan\Bank\Bank.Domain.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_Bank.Domain.Tests
+C:\Users\luna3\OneDrive\Escritorio\calidadypruebas2025\lab-2025-i-cps-u1-01-csharp-LunaJuarezJuan\Bank\Bank.Domain.Tests\obj\Debug\net9.0\Bank.Domain.Tests.csproj.AssemblyReference.cache
+C:\Users\luna3\OneDrive\Escritorio\calidadypruebas2025\lab-2025-i-cps-u1-01-csharp-LunaJuarezJuan\Bank\Bank.Domain.Tests\obj\Debug\net9.0\Bank.Domain.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luna3\OneDrive\Escritorio\calidadypruebas2025\lab-2025-i-cps-u1-01-csharp-LunaJuarezJuan\Bank\Bank.Domain.Tests\obj\Debug\net9.0\Bank.Domain.Tests.AssemblyInfoInputs.cache
+C:\Users\luna3\OneDrive\Escritorio\calidadypruebas2025\lab-2025-i-cps-u1-01-csharp-LunaJuarezJuan\Bank\Bank.Domain.Tests\obj\Debug\net9.0\Bank.Domain.Tests.AssemblyInfo.cs
+C:\Users\luna3\OneDrive\Escritorio\calidadypruebas2025\lab-2025-i-cps-u1-01-csharp-LunaJuarezJuan\Bank\Bank.Domain.Tests\obj\Debug\net9.0\Bank.Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Users\luna3\OneDrive\Escritorio\calidadypruebas2025\lab-2025-i-cps-u1-01-csharp-LunaJuarezJuan\Bank\Bank.Domain.Tests\obj\Debug\net9.0\Bank.Domain.Tests.sourcelink.json

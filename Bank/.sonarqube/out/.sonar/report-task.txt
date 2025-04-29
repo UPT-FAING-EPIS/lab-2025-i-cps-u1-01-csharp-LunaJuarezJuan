@@ -1,0 +1,7 @@
+organization=lunajuarezjuan
+projectKey=apibank
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.62821
+dashboardUrl=https://sonarcloud.io/dashboard?id=apibank
+ceTaskId=AZaCpRBF4dsuJMdZ9os0
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZaCpRBF4dsuJMdZ9os0
